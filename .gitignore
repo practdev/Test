@@ -1,2 +1,3 @@
 *.txt
+!fil1.txt
 dir1/
